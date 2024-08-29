@@ -4,4 +4,4 @@ English or Spanish?
 
 ![](https://github-readme-stats.vercel.app/api?username=amistix&show_icons=true&theme=tokyonight&hide=["issues"])
 
-## If u need my unreachable programming power, here is my [Discord](https://discordapp.com/users/719065074911805502/)
+## If u'd like to contact me, here is my [Discord](https://discordapp.com/users/719065074911805502/) btw👾
