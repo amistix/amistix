@@ -3,14 +3,15 @@ Hello guys! Honestly, i have nothing to say. Frankly speaking, i don't really kn
 <br><br>
 P.S.: here is the most common joke i could find: "It's not a bug, it's an undocumented feature." 
 <br><br>
-
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=300&width=540&height=60&lines=This+is+Elon+Musk;Tesla's+co-founder+and+CEO)](https://git.io/typing-svg)
 <h1>Some useless statistics✨</h1>
-
 <div>
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=amistix&show_icons=true&theme=tokyonight&hide=['issues']"/>
   <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=amistix&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
+-->
 
-## If u'd like to contact me, here is my [Discord](https://discordapp.com/users/719065074911805502/) btw👾
+## Where you might find me?🎯 
+
+In case of necessity of contacting me, it's possible to accomplish that thing by texting me on [discord](https://discordapp.com/users/719065074911805502/)!
